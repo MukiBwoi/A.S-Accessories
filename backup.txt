@@ -1,0 +1,158 @@
+    <div class="gallery"><br><br><br>
+            <div class="container mt-3 pl-4">
+                <div class="row myheadingsize">
+                    Product Gallery
+                </div>
+                <br>
+                <div class="row mysize pl-3">
+                    LASTICS
+                </div>
+                <br>
+                <div class="row Lastic">
+                    <div class="col-lg-3 col-md-6  ml-0 ">
+                        <img class="img-thumbnail" src=" ./img/Elastic/27063.jpg " alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6  ml-0 ">
+                        <img class="img-thumbnail" src="./img/Elastic/30058.jpg " alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6 ml-0 ">
+                        <img class="img-thumbnail" src="./img/Elastic/31774.jpg" alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6 ml-0 ">
+                        <img class="img-thumbnail" src="./img/Elastic/33745.jpg " alt=" ">
+                    </div>
+                </div>
+                <div class="row m-3 ">
+                    <div class="col-12 adjust">
+                        <div class="line"></div>
+                    </div>
+                </div>
+                <div class="row mysize pl-3">
+                    BUTTONS
+                </div>
+                <br>
+                <div class="row Lastic">
+                    <div class="col-lg-3 col-md-6  ml-0 ">
+                        <img class="img-thumbnail" src="./img/Buttons/4499.jpg" alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6  ml-0 ">
+                        <img class="img-thumbnail" src="./img/Buttons/5845.jpg " alt=" ">
+                    </div>
+                    <div class="col-lg-3  col-md-6 ml-0 ">
+                        <img class="img-thumbnail" src="./img/Buttons/7436.jpg" alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6  ml-0 ">
+                        <img class="img-thumbnail" src="./img/Buttons/8736.jpg" alt=" ">
+                    </div>
+                </div>
+                <div class="row m-3 ">
+                    <div class="col-12 adjust">
+                        <div class="line"></div>
+                    </div>
+                </div>
+                <div class="row mysize pl-3">
+                    MOBILONE TAPES
+                </div>
+                <br>
+                <div class="row Lastic">
+                    <div class="col-lg-3 col-md-6  ml-0 ">
+                        <img class="img-thumbnail" src="./img/Mobilone_Tape/12941.jpg" alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6 ml-0 ">
+                        <img class="img-thumbnail" src="./img/Mobilone_Tape/21354.jpg " alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6 ml-0 ">
+                        <img class="img-thumbnail" src="./img/Mobilone_Tape/22314.jpg" alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6 ml-0 ">
+                        <img class="img-thumbnail" src="./img/Mobilone_Tape/9880.jpg" alt=" ">
+                    </div>
+                </div>
+                <div class="row m-3 ">
+                    <div class="col-12 adjust">
+                        <div class="line"></div>
+                    </div>
+                </div>
+                <div class="row mysize pl-3">
+                    LACE
+                </div>
+                <br>
+                <div class="row Lastic">
+                    <div class="col-lg-3 col-md-6  ml-0 ">
+                        <img class="img-thumbnail" src="./img/Lace/62432.jpg" alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6  ml-0 ">
+                        <img class="img-thumbnail" src="./img/Lace/65571.jpg " alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6 ml-0 ">
+                        <img class="img-thumbnail" src="./img/Lace/68247.jpg" alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6  ml-0 ">
+                        <img class="img-thumbnail" src="./img/Lace/72738.jpg" alt=" ">
+                    </div>
+                </div>
+                <div class="row m-3 ">
+                    <div class="col-12 adjust">
+                        <div class="line"></div>
+                    </div>
+                </div>
+                <div class="row mysize pl-3">
+                    RING & SLIDERS
+                </div>
+                <br>
+                <div class="row Lastic">
+                    <div class="col-lg-3 col-md-6 ml-0 ">
+                        <img class="img-thumbnail" src="./img/Ring_and_Sliders/31326.jpg" alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6 ml-0 ">
+                        <img class="img-thumbnail" src="./img/Ring_and_Sliders/35193.jpg" alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6 ml-0 ">
+                        <img class="img-thumbnail" src="./img/Ring_and_Sliders/40397.jpg" alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6  ml-0 ">
+                        <img class="img-thumbnail" src="./img/Ring_and_Sliders/41799.jpg" alt=" ">
+                    </div>
+                </div>
+                <div class="row m-3 ">
+                    <div class="col-12 adjust">
+                        <div class="line"></div>
+                    </div>
+                </div>
+                <div class="row mysize pl-3">
+                    VELVET TAPES
+                </div>
+                <br>
+                <div class="row Lastic">
+                    <div class="col-lg-3 col-md-6 ml-0 ">
+                        <img class="img-thumbnail" src="./img/Velvet_Tape/44540.jpg" alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6 ml-0 ">
+                        <img class="img-thumbnail" src="./img/Velvet_Tape/47664.jpg" alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6 ml-0 ">
+                        <img class="img-thumbnail" src="./img/Velvet_Tape/51602.jpg" alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6  ml-0 ">
+                        <img class="img-thumbnail" src="./img/Velvet_Tape/55676.jpg" alt=" ">
+                    </div>
+                </div>
+                <div class="row m-3 ">
+                    <div class="col-12 adjust">
+                        <div class="line"></div>
+                    </div>
+                </div>
+                <div class="row mysize pl-3">
+                    ZIPPERS
+                </div>
+                <br>
+                <div class="row Lastic">
+                    <div class="col-lg-3 col-md-6 ml-0 ">
+                        <img class="img-thumbnail" src="./img/Zippers/52967.jpg" alt=" ">
+                    </div>
+                    <div class="col-lg-3 col-md-6 ml-0 ">
+                        <img class="img-thumbnail" src="./img/Zippers/54775.jpg" alt=" ">
+                    </div>
+                </div>
+            </div>
+        </div>

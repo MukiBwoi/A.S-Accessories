@@ -1,0 +1,77 @@
+ @media screen and (min-width: 500px) {
+     div.mysize {
+         font-size: 20px;
+     }
+     div.myheadingsize {
+         font-size: 32px;
+     }
+     div.str {
+         height: 50px;
+         width: 70px;
+     }
+     div.under {
+         width: 15px;
+     }
+     h3 {
+         font-size: medium;
+     }
+     h7 {
+         font-size: small;
+     }
+     div.mynewsize {
+         font-size: 23px;
+     }
+ }
+ 
+ @media screen and (max-width: 600px) {
+     div.mysize {
+         font-size: 12px;
+     }
+     div.myheadingsize {
+         font-size: 21px;
+     }
+     div.str {
+         height: 1px;
+         width: 1px;
+     }
+     div.under {
+         width: 15px;
+     }
+     button.btn-lg {
+         font-size: 0.675rem;
+         line-height: 1.0;
+         padding: 5px;
+     }
+     h3 {
+         font-size: small;
+     }
+     h7 {
+         font-size: smaller;
+     }
+     div.mynewsize {
+         font-size: 6px;
+     }
+     img.logo {
+         height: 70px;
+         width: 70px;
+     }
+ }
+ 
+ @media screen and (max-width: 768px) {
+     button.btn-lg {
+         font-size: 0.775rem;
+         line-height: 1.1;
+     }
+     div.mynewsize {
+         font-size: 12px;
+     }
+ }
+ 
+ @media screen and (min-width:1400px) {
+     nav.navbar {
+         padding: 10px;
+     }
+     img.logo {
+         padding: 10px;
+     }
+ }

@@ -1,0 +1,270 @@
+html,
+body {
+    scroll-behavior: smooth;
+    background-color: #fff;
+    font-family: "Open Sans", "Lato", sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.bgimg {
+    background: url(img/buttons.jpg)no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+}
+
+.bgcapacity {
+    background: url(img/cutting.jpg)no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    padding: 5%;
+}
+
+.bgvision {
+    background: url(img/vision.jpg)no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    padding: 5%;
+}
+
+#logo {
+    width: 40%;
+    height: auto;
+}
+
+#container1 {
+    height: 100%;
+}
+
+#container2 {
+    position: relative;
+    top: 40%;
+    text-align: center;
+    padding: 5;
+    ;
+}
+
+#container3 {
+    position: relative;
+    top: 40%;
+    text-align: center;
+    padding: 2%;
+    letter-spacing: 1;
+}
+
+#aboutus {
+    display: block;
+    position: relative;
+    top: 20px;
+    padding: 3%;
+    text-align: left;
+}
+
+#strength {
+    padding: 3%;
+    display: block;
+    position: relative;
+    top: 40px;
+}
+
+.strengthimg {
+    background-image: url(img/strength.jpg)no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+}
+
+.mysize {
+    font-weight: 50;
+}
+
+.myheadingsize {
+    text-decoration: underline solid m-1;
+}
+
+.size {
+    height: 25%;
+}
+
+#vision {
+    padding: 3%;
+    display: block;
+    position: relative;
+    top: 20px;
+}
+
+.fixed-top.scrolled {
+    background-image: linear-gradient(to top, #48c6ef 0%, #6f86d6 100%);
+    opacity: 0.97;
+    transition: background-color 800ms linear;
+}
+
+.fixed-top.scrolled .nav-link {
+    color: #fff;
+}
+
+.carousel-item {
+    height: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.carousel-item img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    min-height: 300px;
+    z-index: -1;
+}
+
+.footerbg {
+    background: url(img/footer.png)no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    margin-top: 50px;
+}
+
+.navbar-brand img {
+    margin-left: 5px;
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+}
+
+a.nav-link {
+    text-align: center;
+}
+
+a.nav-link:hover {
+    color: white;
+}
+
+.nav-item:hover {
+    border-bottom: solid 3px;
+}
+
+.nav-item {
+    margin: 0px 10px;
+    font-weight: bold;
+}
+
+.logo.scrolled {
+    border-radius: 10px;
+    transition: background-color 200ms linear;
+}
+
+.fade {
+    animation: fadeInDown 1000ms ease-out;
+}
+
+.Lastic .img-thumbnail {
+    height: 100%;
+    width: 100%;
+}
+
+.Lastic .col-lg-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* width */
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+
+/* Track */
+
+ ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+
+/* Handle */
+
+ ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+    height: 200px;
+}
+
+
+/* Handle on hover */
+
+ ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+
+/*.line {
+    width: 300px;
+    height: 10px;
+    border-radius: 10px;
+    background-color: #4c5357;
+    margin: 60px 0px;
+}
+
+.adjust {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}*/
+
+.gallery {
+    padding: 10%;
+}
+
+.gallery .row .col-lg-4:nth-child(1) {
+    background: red;
+    color: white;
+}
+
+.gallery .row .col-lg-4:nth-child(2) {
+    background: blue;
+    color: white;
+}
+
+.gallery .row .col-lg-4:nth-child(3) {
+    background: chartreuse;
+    color: white;
+}
+
+.gallery .row .col-lg-4:nth-child(4) {
+    background: purple;
+    color: white;
+}
+
+.gallery .row .col-lg-4:nth-child(5) {
+    background: green;
+    color: white;
+}
+
+.gallery .row .col-lg-4:nth-child(6) {
+    background: cornflowerblue;
+    color: white;
+}
+
+.gallery .row .col-lg-4:nth-child(7) {
+    background: darkgoldenrod;
+    color: white;
+}
+
+.gallery .row .col-lg-4:nth-child(8) {
+    background: violet;
+    color: white;
+}
+
+.gallery .row .col-lg-4,
+.gallery .row .col-lg-8 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 7% 5%;
+}
+
+.gallery .row .col-lg-8 {
+    background: deeppink;
+    color: white;
+}
