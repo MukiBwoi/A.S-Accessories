@@ -85,7 +85,7 @@ body {
     height: 25%;
 }
 
-#vision {
+.anime1 {
     padding: 3%;
     display: block;
     position: relative;
@@ -216,43 +216,45 @@ a.nav-link:hover {
     padding: 10%;
 }
 
-.gallery .row .col-lg-4:nth-child(1) {
-    background: red;
-    color: white;
-}
-
 .gallery .row .col-lg-4:nth-child(2) {
-    background: blue;
+    background: url('./img/Elastic/elastic.jpg') center center no-repeat;
+    background-size: cover;
     color: white;
 }
 
 .gallery .row .col-lg-4:nth-child(3) {
-    background: chartreuse;
+    background: url('./img/Buttons/button.jpg') center center no-repeat;
+    background-size: cover;
     color: white;
 }
 
 .gallery .row .col-lg-4:nth-child(4) {
-    background: purple;
+    background: url('./img/Lace/lace.jpg') center center no-repeat;
+    background-size: cover;
     color: white;
 }
 
 .gallery .row .col-lg-4:nth-child(5) {
-    background: green;
+    background: url('./img/Mobilone_Tape/tape.jpg') center center no-repeat;
+    background-size: cover;
     color: white;
 }
 
 .gallery .row .col-lg-4:nth-child(6) {
-    background: cornflowerblue;
+    background: url('./img/Ring_and_Sliders/ring.jpg') center center no-repeat;
+    background-size: cover;
     color: white;
 }
 
 .gallery .row .col-lg-4:nth-child(7) {
-    background: darkgoldenrod;
+    background: url('./img/Velvet_Tape/velvet.jpg') center center no-repeat;
+    background-size: cover;
     color: white;
 }
 
 .gallery .row .col-lg-4:nth-child(8) {
-    background: violet;
+    background: url('./img/Zippers/zippers.jpg') center center no-repeat;
+    background-size: cover;
     color: white;
 }
 
@@ -262,9 +264,24 @@ a.nav-link:hover {
     display: flex;
     flex-direction: column;
     padding: 7% 5%;
+    border: #ffff solid;
 }
 
 .gallery .row .col-lg-8 {
-    background: deeppink;
+    background: url('./img/collage.jpg') center center no-repeat;
+    background-size: cover;
     color: white;
+    padding: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-lg:hover {
+    border: #007bff solid 2px;
+    color: #007bff;
+    background: rgba(255, 255, 255, 0.9);
+    transition: 0.5s;
+    font-weight: 500;
 }
