@@ -229,13 +229,13 @@ a.nav-link:hover {
 }
 
 .gallery .row .col-lg-4:nth-child(4) {
-    background: url('./img/Lace/lace.jpg') center center no-repeat;
+    background: url('./img/Mobilone_Tape/tape.jpg') center center no-repeat;
     background-size: cover;
     color: white;
 }
 
 .gallery .row .col-lg-4:nth-child(5) {
-    background: url('./img/Mobilone_Tape/tape.jpg') center center no-repeat;
+    background: url('./img/Lace/lace.jpg') center center no-repeat;
     background-size: cover;
     color: white;
 }
