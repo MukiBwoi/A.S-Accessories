@@ -55,6 +55,9 @@
          height: 70px;
          width: 70px;
      }
+  
+  #commitments .container{
+   margin-left:7px;
  }
  
  @media screen and (max-width: 768px) {
